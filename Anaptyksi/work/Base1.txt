@@ -1,0 +1,18 @@
+#20
+#Fri Jan 20 15:54:50 EET 2012
+ip=127.0.0.1
+timeInterval = 3000
+guarBitrate=256
+port=8085
+networdId=ved7 89by45
+cType=FIXED
+loadP=20
+coverRange=70
+signalPower=3
+netType=WLAN
+frequency=99.2
+maxBitrate=1024
+y=0
+provider=Pordaphone
+x=0
+basestationId=BId31

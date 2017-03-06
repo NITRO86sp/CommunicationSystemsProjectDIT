@@ -1,0 +1,17 @@
+ip=127.0.0.1
+timeInterval = 3000
+loadP = 0
+coverRange = 70
+x = 0
+y = 0
+port = 8084
+networdId = ved7 89by45
+basestationId = BId2
+signalPower = 3
+netType = WLAN
+frequency = 99.2
+maxBitrate = 1024
+guarBitrate = 256
+provider = Pordaphone
+cType = EDGE
+

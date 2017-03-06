@@ -1,0 +1,6 @@
+MIDlet-1: HelloMIDlet,,MyMidlet
+MIDlet-Vendor: Vendor
+MIDlet-Name: TerminalApplication
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

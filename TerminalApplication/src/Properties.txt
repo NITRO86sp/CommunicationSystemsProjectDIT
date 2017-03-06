@@ -1,0 +1,9 @@
+1
+Aplha
+GSM
+Android
+1200
+512
+TRUE
+127.0.0.1
+3307

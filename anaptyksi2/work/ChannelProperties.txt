@@ -1,0 +1,11 @@
+dbusername = sdi0800161
+dbpassword = sdi0800161
+dbType = mysql
+dbJavaDriver = jdbc
+serverIP = 195.134.65.215
+serverDbPort = 3306
+serverMobilePort = 3307
+dbName = sdi0800161
+
+#timeInterval se milliseconds
+timeInterval = 3000
